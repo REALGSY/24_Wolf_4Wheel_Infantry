@@ -223,12 +223,7 @@
         <Ww>
           <count>13</count>
           <WinNumber>1</WinNumber>
-          <ItemText>\\ins_task\../Apps/Control_Vision.c\VisionData.RawData.__untagged_92.__untagged_91.pit_angle</ItemText>
-        </Ww>
-        <Ww>
-          <count>14</count>
-          <WinNumber>1</WinNumber>
-          <ItemText>\\ins_task\../Apps/Control_Vision.c\VisionData.RawData.__untagged_92.__untagged_91.pit_angle</ItemText>
+          <ItemText>shot,0x0A</ItemText>
         </Ww>
       </WatchWindow1>
       <WatchWindow2>
